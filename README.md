@@ -1,12 +1,16 @@
 # ITMO
-Тут хранятся приколы и мемы о нейротехе
-
-<b>Информатика (1 курс, 1 семестр):</b>
-- [Лабораторная работа №4: Введение в базы данных.](https://github.com/GeruniaSun/ITMO-informatics-lab4)
-- [Лабораторная работа №5: Введение в PHP.](https://github.com/GeruniaSun/ITMO-informatics-lab5)
-
-<b>Программирование (1 курс, 1-2 семестры):</b>
-- [Лабораторная работа №3]((https://github.com/GeruniaSun/ITMO-programming-lab3))
-- [Лабораторная работа №4](https://github.com/GeruniaSun/ITMO-programming-lab4)
-- [Лабораторная работа №5](https://github.com/GeruniaSun/ITMO-programming-lab5)
-
+Этот файл является навигацией по моим лабам и прочим штучкам выполненным в ИТМО/ПИиКТ/Программная инженерия/нейротех
+Поступил я в 2023 году, числанулся в 2005
+Оставь надежду всяк сюда входящий
+## Хэй, первак
+  ### 1ый семестр
+    <b>Информатика:</b>
+    - [лаба 4](https://github.com/GeruniaSun/ITMO-informatics-lab4)
+    - [лаба 5](https://github.com/GeruniaSun/ITMO-informatics-lab5)
+  
+    <b>Прога:</b>
+    - [лаба 3](https://github.com/GeruniaSun/ITMO-programming-lab3)
+    - [лаба 4](https://github.com/GeruniaSun/ITMO-programming-lab4)
+  ### 2ой семестр
+    <b>Прога:</b>
+    - [лаба 5](https://github.com/GeruniaSun/ITMO-programming-lab5)
