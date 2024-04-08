@@ -21,3 +21,5 @@
 - [лаба 1](https://github.com/GeruniaSun/ITMO-DB-lab1)
 - [лаба 2](https://github.com/GeruniaSun/ITMO-DB-lab2)
 - [лаба 3](https://github.com/GeruniaSun/ITMO-DB-lab3)
+# Всяко разное
+- [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
