@@ -16,6 +16,7 @@
 ## 2ой семестр
 <b>Прога:</b>
 - [лаба 5](https://github.com/GeruniaSun/ITMO-programming-lab5)
+- [лаба 6](https://github.com/GeruniaSun/ITMO-programming-lab6)
 
 <b>БДшки:</b>
 - [лаба 1](https://github.com/GeruniaSun/ITMO-DB-lab1)
