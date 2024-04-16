@@ -16,11 +16,12 @@
 ## 2ой семестр
 <b>Прога:</b>
 - [лаба 5](https://github.com/GeruniaSun/ITMO-programming-lab5)
-- [лаба 6](https://github.com/GeruniaSun/ITMO-programming-lab6)
+- [хуйня пустая](https://github.com/GeruniaSun/ITMO-programming-lab6)
 
 <b>БДшки:</b>
 - [лаба 1](https://github.com/GeruniaSun/ITMO-DB-lab1)
 - [лаба 2](https://github.com/GeruniaSun/ITMO-DB-lab2)
 - [лаба 3](https://github.com/GeruniaSun/ITMO-DB-lab3)
+- [лаба 4](https://github.com/GeruniaSun/ITMO-DB-lab4)
 # Всяко разное
 - [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
