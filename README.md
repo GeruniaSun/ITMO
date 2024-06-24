@@ -17,6 +17,8 @@
 <b>Прога:</b>
 - [лаба 5](https://github.com/GeruniaSun/ITMO-programming-lab5)
 - [лаба 6](https://github.com/GeruniaSun/ITMO-programming-lab6)
+- [лаба 7](https://github.com/GeruniaSun/ITMO-programming-lab7)
+- [лаба 8](https://github.com/GeruniaSun/ITMO-programming-lab8)
 
 <b>БДшки:</b>
 - [лаба 1](https://github.com/GeruniaSun/ITMO-DB-lab1)
