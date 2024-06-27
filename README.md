@@ -7,8 +7,12 @@
 # Хэй, первак
 ## 1ый семестр
 <b>Информатика:</b>
+- [лаба 1](https://github.com/GeruniaSun/ITMO-informatics-lab1)
+- [лаба 2](https://github.com/GeruniaSun/ITMO-informatics-lab2)
+- [лаба 3](https://github.com/GeruniaSun/ITMO-informatics-lab3)
 - [лаба 4](https://github.com/GeruniaSun/ITMO-informatics-lab4)
 - [лаба 5](https://github.com/GeruniaSun/ITMO-informatics-lab5)
+- [лаба 6](https://github.com/GeruniaSun/ITMO-informatics-lab6)
 
 <b>Прога:</b>
 - [лаба 3](https://github.com/GeruniaSun/ITMO-programming-lab3)
