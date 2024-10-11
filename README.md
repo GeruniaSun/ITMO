@@ -33,7 +33,7 @@
 # Это второй!
 ## 3-ий семестр
 <b>Веб:</b>
-- [лаба 1] (https://github.com/GeruniaSun/ITMO-web-lab1)
+- [лаба 1](https://github.com/GeruniaSun/ITMO-web-lab1)
 # Всяко разное
 - [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
 - [лекции Лисицыной Л.С. о нейросетях (баздискретка нейро)](https://github.com/GeruniaSun/ITMO-lections-NeurolinksLisicina)
