@@ -34,16 +34,23 @@
 ## 3-ий семестр
 <b>Веб:</b>
 - [лаба 1](https://github.com/GeruniaSun/ITMO-web-lab1)
-- надо ьы вторую залить
+- [лаба 2](https://github.com/GeruniaSun/ITMO-web-lab2)
+- [лаба 3](https://github.com/GeruniaSun/ITMO-web-lab3)
   
 <b>ДГМА:</b>
 - [лекции парт ван](https://miro.com/app/board/uXjVKhrxVQM=/?share_link_id=508000302890)
 - [лекции парт ту](https://miro.com/app/board/uXjVLTtuxGg=/?share_link_id=775120591556)
 - [лекции парт фри](https://miro.com/app/board/uXjVLGGyp2Q=/?share_link_id=154103931834)
+- [лекции парт фор](https://miro.com/app/board/uXjVL2qT70A=/?share_link_id=423687423473)
+- здесь онажды появятся доски, где мы пытались разобраться с демками кршек, но попожзе, когда я отключу в них право на редактирование и уберу всю сомнительную символику
   
 <b>ТФКП:</b>
 - [лекции парт ван](https://miro.com/app/board/uXjVKiZxeRg=/?share_link_id=594363267686)
 - [лекции парт ту](https://miro.com/app/board/uXjVLNzja9Y=/?share_link_id=721102733526)
+
+<b>Физикс:</b>
+- [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics)
+
 # Всяко разное
 - [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
 - [лекции Лисицыной Л.С. о нейросетях (баздискретка нейро)](https://github.com/GeruniaSun/ITMO-lections-NeurolinksLisicina)
