@@ -3,9 +3,9 @@
 
 Поступил я в 2023 году, числанулся в 2005
 
+# 1-ый семестр
 <i>Оставь надежду всяк сюда входящий<i/>
-# Хэй, первак
-## 1ый семестр
+
 <b>Информатика:</b>
 - [лаба 1](https://github.com/GeruniaSun/ITMO-informatics-lab1)
 - [лаба 2](https://github.com/GeruniaSun/ITMO-informatics-lab2)
@@ -17,7 +17,9 @@
 <b>Прога:</b>
 - [лаба 3](https://github.com/GeruniaSun/ITMO-programming-lab3)
 - [лаба 4](https://github.com/GeruniaSun/ITMO-programming-lab4)
-## 2ой семестр
+# 2-ой семестр
+<i>Не жили богато, нечего и начинать<i/>
+
 <b>Прога:</b>
 - [лаба 5](https://github.com/GeruniaSun/ITMO-programming-lab5)
 - [лаба 6](https://github.com/GeruniaSun/ITMO-programming-lab6)
@@ -30,8 +32,9 @@
 - [лаба 3](https://github.com/GeruniaSun/ITMO-DB-lab3)
 - [лаба 4](https://github.com/GeruniaSun/ITMO-DB-lab4)
 
-# Это второй!
-## 3-ий семестр
+# 3-ий семестр
+<i>Скучно, когда всё хорошо</i>
+
 <b>Веб:</b>
 - [лаба 1](https://github.com/GeruniaSun/ITMO-web-lab1)
 - [лаба 2](https://github.com/GeruniaSun/ITMO-web-lab2)
