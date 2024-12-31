@@ -47,6 +47,7 @@
 <b>ТФКП:</b>
 - [лекции парт ван](https://miro.com/app/board/uXjVKiZxeRg=/?share_link_id=594363267686)
 - [лекции парт ту](https://miro.com/app/board/uXjVLNzja9Y=/?share_link_id=721102733526)
+- [не лекции](https://miro.com/app/board/uXjVLyLNzdM=/?share_link_id=198640104618)
 
 <b>Физикс:</b>
 - [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics)
