@@ -39,6 +39,8 @@
 - [лаба 1](https://github.com/GeruniaSun/ITMO-web-lab1)
 - [лаба 2](https://github.com/GeruniaSun/ITMO-web-lab2)
 - [лаба 3](https://github.com/GeruniaSun/ITMO-web-lab3)
+- [лаба 4(бэкик)](https://github.com/GeruniaSun/ITMO-web-lab4-back)
+- [лаба 4(фронтик)](https://github.com/GeruniaSun/ITMO-web-lab3-front)
   
 <b>ДГМА:</b>
 - [лекции парт ван](https://miro.com/app/board/uXjVKhrxVQM=/?share_link_id=508000302890)
