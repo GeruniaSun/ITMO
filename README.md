@@ -55,7 +55,7 @@
 - [не лекции](https://miro.com/app/board/uXjVLyLNzdM=/?share_link_id=198640104618)
 
 <b>Физикс:</b>
-- [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics)
+- [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics-mechanics)
 
 # 4-ый семестр
 <i>пока не придумал</i>
