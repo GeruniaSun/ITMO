@@ -61,6 +61,7 @@
 <i>пока не придумал</i>
 
 <b>Алгосы:</b>
+- [лекции](https://miro.com/app/board/uXjVLiBtinA=/?share_link_id=974986822773)
 - [задачи со степика](https://github.com/GeruniaSun/ITMO-algs-stepik)
 - [задачи с кодефорсес](https://github.com/GeruniaSun/ITMO-algs-codeforces)
 # Всяко разное
