@@ -64,6 +64,14 @@
 - [лекции](https://miro.com/app/board/uXjVLiBtinA=/?share_link_id=974986822773)
 - [задачи со степика](https://github.com/GeruniaSun/ITMO-algs-stepik)
 - [задачи с кодефорсес](https://github.com/GeruniaSun/ITMO-algs-codeforces)
+
+<b>Метопты:</b>
+- [лекции](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423)
+
+<b>Физикс:</b>
+- [тут будет специальная репа однажды]()
+
+
 # Всяко разное
 - [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
 - [лекции Лисицыной Л.С. о нейросетях (баздискретка нейро)](https://github.com/GeruniaSun/ITMO-lections-NeurolinksLisicina)
