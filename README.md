@@ -62,6 +62,7 @@
 
 <b>Алгосы:</b>
 - [задачи со степика](https://github.com/GeruniaSun/ITMO-algs-stepik)
+- [задачи с кодефорсес](https://github.com/GeruniaSun/ITMO-algs-codeforces)
 # Всяко разное
 - [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
 - [лекции Лисицыной Л.С. о нейросетях (баздискретка нейро)](https://github.com/GeruniaSun/ITMO-lections-NeurolinksLisicina)
