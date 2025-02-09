@@ -69,7 +69,7 @@
 - [лекции](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423)
 
 <b>Физикс:</b>
-- [тут будет специальная репа однажды]()
+- [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics-electromagnetism)
 
 
 # Всяко разное
