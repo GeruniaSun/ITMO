@@ -62,8 +62,8 @@
 
 <b>Алгосы:</b>
 - [лекции](https://miro.com/app/board/uXjVLiBtinA=/?share_link_id=974986822773)
-- [задачи со степика](https://github.com/GeruniaSun/ITMO-algs-stepik)
-- [задачи с кодефорсес](https://github.com/GeruniaSun/ITMO-algs-codeforces)
+- [задачи со степика(пока что 2 из 17)](https://github.com/GeruniaSun/ITMO-algs-stepik)
+- [задачи с кодефорсес(пока что 2 из 16)](https://github.com/GeruniaSun/ITMO-algs-codeforces)
 
 <b>Метопты:</b>
 - [лекции](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423)
