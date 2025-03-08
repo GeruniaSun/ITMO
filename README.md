@@ -58,7 +58,7 @@
 - [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics-mechanics)
 
 # 4-ый семестр
-<i>пока не придумал</i>
+<i>Хорошо жить хорошо и плохо - плохо</i>
 
 <b>Алгосы:</b>
 - [лекции](https://miro.com/app/board/uXjVLiBtinA=/?share_link_id=974986822773)
@@ -70,6 +70,7 @@
 
 <b>ОПИ:</b>
 - [лаба 1](https://docs.google.com/document/d/1LS2Ss2lClq3pITVmR36E-DKJr-BlHZ0sHRxMtFzTYQc/edit?usp=sharing)
+- [лаба 2](https://github.com/GeruniaSun/ITMO-OPI-lab2)
   
 <b>Физикс:</b>
 - [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics-electromagnetism)
