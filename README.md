@@ -66,6 +66,9 @@
 - [задачи со степика(пока что 2 из 17)](https://github.com/GeruniaSun/ITMO-algs-stepik)
 - [задачи с кодефорсес(пока что 2 из 16)](https://github.com/GeruniaSun/ITMO-algs-codeforces)
 
+<b>Матстат: </b>
+ - [лаба 1](https://colab.research.google.com/drive/1D1cuzKYlYBkijXyZ_9VVJobDqyyCbG4A?usp=sharing) 
+
 <b>Метопты:</b>
 - [лекции](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423)
 
