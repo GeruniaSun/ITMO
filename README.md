@@ -48,7 +48,8 @@
 - [лекции парт ту](https://miro.com/app/board/uXjVLTtuxGg=/?share_link_id=775120591556)
 - [лекции парт фри](https://miro.com/app/board/uXjVLGGyp2Q=/?share_link_id=154103931834)
 - [лекции парт фор](https://miro.com/app/board/uXjVL2qT70A=/?share_link_id=423687423473)
-- здесь онажды появятся доски, где мы пытались разобраться с демками кршек, но попожзе, когда я отключу в них право на редактирование и уберу всю сомнительную символику
+- [наши попытки разобрать кр2](https://miro.com/app/board/uXjVL9yytgM=/?share_link_id=582905590677)
+- [наши попытки разобрать кр3](https://miro.com/app/board/uXjVLz_HkpM=/?share_link_id=658651950885)
   
 <b>ТФКП:</b>
 - [лекции парт ван](https://miro.com/app/board/uXjVKiZxeRg=/?share_link_id=594363267686)
