@@ -3,7 +3,7 @@
 
 Поступил я в 2023 году, числанулся в 2005
 
-![eric]([https://c.tenor.com/zZOt7alSzAMAAAAd/tenor.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdvYmZhd2h0Y2U2YWl3MDRoYngyeWJvbXJ4YzJqOTN3NnZiNnRxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufi8YuYu2BxVS48/giphy.gif))
+![eric](images/SP_GM.gif)
 # 1-ый семестр
 <i>Оставь надежду всяк сюда входящий<i/>
 
