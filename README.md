@@ -80,3 +80,6 @@
 # Всяко разное
 - [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
 - [лекции Лисицыной Л.С. о нейросетях (баздискретка нейро)](https://github.com/GeruniaSun/ITMO-lections-NeurolinksLisicina)
+
+
+![kenny](images/SP_bye.gif)
