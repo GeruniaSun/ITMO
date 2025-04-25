@@ -73,7 +73,8 @@
  -  [лаба 1](https://colab.research.google.com/drive/1D1cuzKYlYBkijXyZ_9VVJobDqyyCbG4A?usp=sharing)
 
 <b>Метопты:</b>
-- [лекции](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423)
+- [лекции парт ван](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423)
+- [лекции парт ту](https://miro.com/app/board/uXjVIE_W780=/?share_link_id=616530430557)
 
 <b>ОПИ:</b>
 - [лаба 1](https://docs.google.com/document/d/1LS2Ss2lClq3pITVmR36E-DKJr-BlHZ0sHRxMtFzTYQc/edit?usp=sharing)
