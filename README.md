@@ -70,7 +70,9 @@
 <b>Матстат: </b>
  - [лекции парт ван](https://miro.com/app/board/uXjVLhxrlKs=/?share_link_id=801461673568)
  - [лекции парт ту](https://miro.com/app/board/uXjVIPtQVkM=/?share_link_id=27987446715)
+ - [лекции парт фри](https://miro.com/app/board/uXjVI9bhq9c=/?share_link_id=469247779445)
  -  [лаба 1](https://colab.research.google.com/drive/1D1cuzKYlYBkijXyZ_9VVJobDqyyCbG4A?usp=sharing)
+ -  [лаба 2](https://colab.research.google.com/drive/1S5wBOJF6aisHF6rIUYxNdfP2iwlqiaW5?usp=sharing)
 
 <b>Метопты:</b>
 - [лекции парт ван](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423)
