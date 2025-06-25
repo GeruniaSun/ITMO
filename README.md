@@ -88,6 +88,7 @@
   
 <b>Физикс:</b>
 - [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics-electromagnetism)
+- [наш супер мега проект](https://github.com/deadxraver/physics-2)
 
 
 # Всяко разное
