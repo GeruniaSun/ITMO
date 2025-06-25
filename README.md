@@ -57,7 +57,7 @@
 - [не лекции](https://miro.com/app/board/uXjVLyLNzdM=/?share_link_id=198640104618)
 
 <b>Физикс:</b>
-- [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics-mechanics)
+- [лабулька](https://github.com/GeruniaSun/ITMO-physics-mechanics)
 
 # 4-ый семестр
 <i>Хорошо жить хорошо и плохо - плохо</i>
@@ -68,12 +68,12 @@
 - [задачи с кодефорсес](https://github.com/GeruniaSun/ITMO-algs-codeforces)
 
 <b>Матстат: </b>
- - [лекции парт ван](https://miro.com/app/board/uXjVLhxrlKs=/?share_link_id=801461673568)
- - [лекции парт ту](https://miro.com/app/board/uXjVIPtQVkM=/?share_link_id=27987446715)
- - [лекции парт фри](https://miro.com/app/board/uXjVI9bhq9c=/?share_link_id=469247779445)
- - [лаба 1](https://colab.research.google.com/drive/1D1cuzKYlYBkijXyZ_9VVJobDqyyCbG4A?usp=sharing)
- - [лаба 2](https://colab.research.google.com/drive/1S5wBOJF6aisHF6rIUYxNdfP2iwlqiaW5?usp=sharing)
- - [лаба 3](https://colab.research.google.com/drive/1c0oprSK-uHNthKns0E96I4YWY3xHZ21c?usp=sharing)
+- [лекции парт ван](https://miro.com/app/board/uXjVLhxrlKs=/?share_link_id=801461673568)
+- [лекции парт ту](https://miro.com/app/board/uXjVIPtQVkM=/?share_link_id=27987446715)
+- [лекции парт фри](https://miro.com/app/board/uXjVI9bhq9c=/?share_link_id=469247779445)
+- [лаба 1](https://colab.research.google.com/drive/1D1cuzKYlYBkijXyZ_9VVJobDqyyCbG4A?usp=sharing)
+- [лаба 2](https://colab.research.google.com/drive/1S5wBOJF6aisHF6rIUYxNdfP2iwlqiaW5?usp=sharing)
+- [лаба 3](https://colab.research.google.com/drive/1c0oprSK-uHNthKns0E96I4YWY3xHZ21c?usp=sharing)
 
 <b>Метопты:</b>
 - [лекции парт ван](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423)
