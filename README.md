@@ -64,15 +64,16 @@
 
 <b>Алгосы:</b>
 - [лекции](https://miro.com/app/board/uXjVLiBtinA=/?share_link_id=974986822773)
-- [задачи со степика(пока что 4 из 17)](https://github.com/GeruniaSun/ITMO-algs-stepik)
+- [задачи со степика(пока что 11 из 17)](https://github.com/GeruniaSun/ITMO-algs-stepik)
 - [задачи с кодефорсес](https://github.com/GeruniaSun/ITMO-algs-codeforces)
 
 <b>Матстат: </b>
  - [лекции парт ван](https://miro.com/app/board/uXjVLhxrlKs=/?share_link_id=801461673568)
  - [лекции парт ту](https://miro.com/app/board/uXjVIPtQVkM=/?share_link_id=27987446715)
  - [лекции парт фри](https://miro.com/app/board/uXjVI9bhq9c=/?share_link_id=469247779445)
- -  [лаба 1](https://colab.research.google.com/drive/1D1cuzKYlYBkijXyZ_9VVJobDqyyCbG4A?usp=sharing)
- -  [лаба 2](https://colab.research.google.com/drive/1S5wBOJF6aisHF6rIUYxNdfP2iwlqiaW5?usp=sharing)
+ - [лаба 1](https://colab.research.google.com/drive/1D1cuzKYlYBkijXyZ_9VVJobDqyyCbG4A?usp=sharing)
+ - [лаба 2](https://colab.research.google.com/drive/1S5wBOJF6aisHF6rIUYxNdfP2iwlqiaW5?usp=sharing)
+ - [лаба 3](https://colab.research.google.com/drive/1c0oprSK-uHNthKns0E96I4YWY3xHZ21c?usp=sharing)
 
 <b>Метопты:</b>
 - [лекции парт ван](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423)
@@ -83,7 +84,7 @@
 - [лаба 2](https://github.com/GeruniaSun/ITMO-OPI-lab2)
 - [лаба 3(антик)](https://github.com/GeruniaSun/ITMO-OPI-lab3-ant)
 - [лаба 3(градлик)](https://github.com/GeruniaSun/ITMO-OPI-lab3-gradle)
-- [WIP: лаба 4](https://github.com/GeruniaSun/ITMO-OPI-lab4)
+- [лаба 4](https://github.com/GeruniaSun/ITMO-OPI-lab4)
   
 <b>Физикс:</b>
 - [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics-electromagnetism)
