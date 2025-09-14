@@ -91,6 +91,19 @@
 - [наш супер мега проект](https://github.com/deadxraver/physics-2)
 
 
+# 5-ый семестр
+<i>думаю</i>
+
+<b>Биометрия:</b>
+- [доска(там в основном про онлайн-курс)](https://miro.com/app/board/uXjVJMhRxpU=/?share_link_id=683995340541)
+
+<b>СИИ:</b>
+- [секретный отчет](https://docs.google.com/document/d/1wlsWGFfbRbrdnyZHVWoDpX2wpLBxEgO5H8zQNSoK8kw/edit?usp=sharing)
+- [лаба 1](https://colab.research.google.com/drive/1XfJoom1Xx5MJ7KZei1I860oeoFaymTY6?usp=sharing)
+
+<b>ФП:</b>
+- [лаб 0](https://docs.google.com/document/d/1j-V5bp5wLR7pcqhXuq1s-2wWiWT9SFryEL2rEoxa_rw/edit?usp=sharing)
+
 # Всяко разное
 - [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
 - [лекции Лисицыной Л.С. о нейросетях (баздискретка нейро)](https://github.com/GeruniaSun/ITMO-lections-NeurolinksLisicina)
