@@ -104,6 +104,9 @@
 <b>ФП:</b>
 - [лаб 0](https://docs.google.com/document/d/1j-V5bp5wLR7pcqhXuq1s-2wWiWT9SFryEL2rEoxa_rw/edit?usp=sharing)
 
+<b>Нейроинформатикс:</b>
+- [лаб 1](https://colab.research.google.com/drive/1oCKZWTMaqix_kE7Y_LlScRHT-PaUEYLm?usp=sharing)
+
 # Всяко разное
 - [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
 - [лекции Лисицыной Л.С. о нейросетях (баздискретка нейро)](https://github.com/GeruniaSun/ITMO-lections-NeurolinksLisicina)
