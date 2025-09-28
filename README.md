@@ -100,6 +100,7 @@
 <b>СИИ:</b>
 - [секретный отчет](https://docs.google.com/document/d/1wlsWGFfbRbrdnyZHVWoDpX2wpLBxEgO5H8zQNSoK8kw/edit?usp=sharing)
 - [лаба 1](https://colab.research.google.com/drive/1XfJoom1Xx5MJ7KZei1I860oeoFaymTY6?usp=sharing)
+- [лаба 2](https://colab.research.google.com/drive/19PMh9VlBcRoCqRanvPSwgnAVONOeysao?usp=sharing)
 
 <b>ФП:</b>
 - [лаб 0](https://docs.google.com/document/d/1j-V5bp5wLR7pcqhXuq1s-2wWiWT9SFryEL2rEoxa_rw/edit?usp=sharing)
