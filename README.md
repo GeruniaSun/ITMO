@@ -96,6 +96,8 @@
 
 <b>Биометрия:</b>
 - [доска(там в основном про онлайн-курс)](https://miro.com/app/board/uXjVJMhRxpU=/?share_link_id=683995340541)
+- [лаб 1](https://docs.google.com/document/d/1heI0OUXoer1k9BUn6UJvOXMqRgFdi7mU-KOOLdvq2LU/edit?usp=sharing)
+- [лаб 2](https://colab.research.google.com/drive/1r9xBpggC4qaHbGGuKnuf19M8-GU4Lrmp?usp=sharing)
 
 <b>СИИ:</b>
 - [секретный отчет](https://docs.google.com/document/d/1wlsWGFfbRbrdnyZHVWoDpX2wpLBxEgO5H8zQNSoK8kw/edit?usp=sharing)
