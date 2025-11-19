@@ -110,7 +110,13 @@
 
 <b>Нейроинформатикс:</b>
 - [лаб 1](https://colab.research.google.com/drive/1oCKZWTMaqix_kE7Y_LlScRHT-PaUEYLm?usp=sharing)
+- [лаб 2](https://colab.research.google.com/drive/1kL5-XhR3X8d3zG1DlcMHls3diSUJ-Ygv?usp=sharing)
+- [рубеж 1](https://colab.research.google.com/drive/147BIj3f0-KMy_9sCCGHjvSDd3sew0Qz3?usp=sharing)
 
+<b>Нейрофиз:</b>
+- [лаб 1](https://colab.research.google.com/drive/1oU4mQjOG-_kai0DUWLZFBfRgNAlccTkI?usp=sharing)
+- [лаб 2](https://colab.research.google.com/drive/1bzfmO98UKpc8sXvpCmV785vWfS58oKX_?usp=sharing)
+  
 # Всяко разное
 - [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
 - [лекции Лисицыной Л.С. о нейросетях (баздискретка нейро)](https://github.com/GeruniaSun/ITMO-lections-NeurolinksLisicina)
