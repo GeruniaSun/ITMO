@@ -4,6 +4,8 @@
 Поступил я в 2023 году, числанулся в 2005
 
 ![eric](images/SP_GM.gif)
+
+
 # 1-ый семестр
 <i>Оставь надежду всяк сюда входящий<i/>
 
@@ -18,6 +20,8 @@
 <b>Прога:</b>
 - [лаба 3](https://github.com/GeruniaSun/ITMO-programming-lab3)
 - [лаба 4](https://github.com/GeruniaSun/ITMO-programming-lab4)
+
+
 # 2-ой семестр
 <i>Не жили богато, нечего и начинать<i/>
 
@@ -32,6 +36,7 @@
 - [лаба 2](https://github.com/GeruniaSun/ITMO-DB-lab2)
 - [лаба 3](https://github.com/GeruniaSun/ITMO-DB-lab3)
 - [лаба 4](https://github.com/GeruniaSun/ITMO-DB-lab4)
+
 
 # 3-ий семестр
 <i>Скучно, когда всё хорошо</i>
@@ -58,6 +63,7 @@
 
 <b>Физикс:</b>
 - [лабулька](https://github.com/GeruniaSun/ITMO-physics-mechanics)
+
 
 # 4-ый семестр
 <i>Хорошо жить хорошо и плохо - плохо</i>
@@ -92,12 +98,28 @@
 
 
 # 5-ый семестр
-<i>думаю</i>
+<i>Так что фокус на лучшее, фокус на лучшее</i>
 
 <b>Биометрия:</b>
-- [доска(там в основном про онлайн-курс)](https://miro.com/app/board/uXjVJMhRxpU=/?share_link_id=683995340541)
 - [лаб 1](https://docs.google.com/document/d/1heI0OUXoer1k9BUn6UJvOXMqRgFdi7mU-KOOLdvq2LU/edit?usp=sharing)
 - [лаб 2](https://colab.research.google.com/drive/1r9xBpggC4qaHbGGuKnuf19M8-GU4Lrmp?usp=sharing)
+
+<b>Мобилки:</b>
+- [наш мега проектище](https://github.com/MessengerBaton?view_as=public)
+
+<b>Нейроинформатикс:</b>
+- [лаб 1](https://colab.research.google.com/drive/1oCKZWTMaqix_kE7Y_LlScRHT-PaUEYLm?usp=sharing)
+- [лаб 2](https://colab.research.google.com/drive/1kL5-XhR3X8d3zG1DlcMHls3diSUJ-Ygv?usp=sharing)
+- [рубеж 1](https://colab.research.google.com/drive/147BIj3f0-KMy_9sCCGHjvSDd3sew0Qz3?usp=sharing)
+
+<b>Нейрофиз:</b>
+- [лаб 1](https://colab.research.google.com/drive/1oU4mQjOG-_kai0DUWLZFBfRgNAlccTkI?usp=sharing)
+- [лаб 2](https://colab.research.google.com/drive/1bzfmO98UKpc8sXvpCmV785vWfS58oKX_?usp=sharing)
+- [лаб 3](https://colab.research.google.com/drive/1md2uAiFKZhU-KUuUD9y2dWQWBW__un5s?usp=sharing)
+- [лаб 4](https://colab.research.google.com/drive/1o9tQIyh5_lRBzNC6kP6UocTwINVeeUxI?usp=sharing)
+
+<b>ОС:</b>
+- [лаб 1](https://github.com/GeruniaSun/os-course/tree/lab-1/lab/vtsh)
 
 <b>СИИ:</b>
 - [секретный отчет](https://docs.google.com/document/d/1wlsWGFfbRbrdnyZHVWoDpX2wpLBxEgO5H8zQNSoK8kw/edit?usp=sharing)
@@ -108,19 +130,10 @@
 - [лаб 4](https://github.com/GeruniaSun/ITMO-AIS-lab4)
 - [лаб 5](https://github.com/GeruniaSun/ITMO-AIS-lab5)
 
-
 <b>ФП:</b>
 - [лаб 0](https://docs.google.com/document/d/1j-V5bp5wLR7pcqhXuq1s-2wWiWT9SFryEL2rEoxa_rw/edit?usp=sharing)
+- [лаб 1](https://github.com/GeruniaSun/ITMO-fp-lab1)
 
-<b>Нейроинформатикс:</b>
-- [лаб 1](https://colab.research.google.com/drive/1oCKZWTMaqix_kE7Y_LlScRHT-PaUEYLm?usp=sharing)
-- [лаб 2](https://colab.research.google.com/drive/1kL5-XhR3X8d3zG1DlcMHls3diSUJ-Ygv?usp=sharing)
-- [рубеж 1](https://colab.research.google.com/drive/147BIj3f0-KMy_9sCCGHjvSDd3sew0Qz3?usp=sharing)
-
-<b>Нейрофиз:</b>
-- [лаб 1](https://colab.research.google.com/drive/1oU4mQjOG-_kai0DUWLZFBfRgNAlccTkI?usp=sharing)
-- [лаб 2](https://colab.research.google.com/drive/1bzfmO98UKpc8sXvpCmV785vWfS58oKX_?usp=sharing)
-  
 # Всяко разное
 - [доп лекция о численых методах исчиления интегралов](https://github.com/GeruniaSun/ITMO-advanced_calculus-optional_lection)
 - [лекции Лисицыной Л.С. о нейросетях (баздискретка нейро)](https://github.com/GeruniaSun/ITMO-lections-NeurolinksLisicina)
