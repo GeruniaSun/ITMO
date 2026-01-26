@@ -11,19 +11,19 @@
 <details>
 <summary> <b>Информатика</b> </summary>
   
-- [лаба 1](https://github.com/GeruniaSun/ITMO-informatics-lab1  )
-- [лаба 2](https://github.com/GeruniaSun/ITMO-informatics-lab2  )
-- [лаба 3](https://github.com/GeruniaSun/ITMO-informatics-lab3  )
-- [лаба 4](https://github.com/GeruniaSun/ITMO-informatics-lab4  )
-- [лаба 5](https://github.com/GeruniaSun/ITMO-informatics-lab5  )
-- [лаба 6](https://github.com/GeruniaSun/ITMO-informatics-lab6  )
+- [лаба 1](https://github.com/GeruniaSun/ITMO-informatics-lab1)
+- [лаба 2](https://github.com/GeruniaSun/ITMO-informatics-lab2)
+- [лаба 3](https://github.com/GeruniaSun/ITMO-informatics-lab3)
+- [лаба 4](https://github.com/GeruniaSun/ITMO-informatics-lab4)
+- [лаба 5](https://github.com/GeruniaSun/ITMO-informatics-lab5)
+- [лаба 6](https://github.com/GeruniaSun/ITMO-informatics-lab6)
 </details>
 
 <details>
 <summary> <b>Прога</b> </summary>
   
-- [лаба 3](https://github.com/GeruniaSun/ITMO-programming-lab3  )
-- [лаба 4](https://github.com/GeruniaSun/ITMO-programming-lab4  )
+- [лаба 3](https://github.com/GeruniaSun/ITMO-programming-lab3)
+- [лаба 4](https://github.com/GeruniaSun/ITMO-programming-lab4)
 </details>
 
 # 2-ой семестр
@@ -32,19 +32,19 @@
 <details>
 <summary> <b>Прога</b> </summary>
   
-- [лаба 5](https://github.com/GeruniaSun/ITMO-programming-lab5  )
-- [лаба 6](https://github.com/GeruniaSun/ITMO-programming-lab6  )
-- [лаба 7](https://github.com/GeruniaSun/ITMO-programming-lab7  )
-- [лаба 8](https://github.com/GeruniaSun/ITMO-programming-lab8  )
+- [лаба 5](https://github.com/GeruniaSun/ITMO-programming-lab5)
+- [лаба 6](https://github.com/GeruniaSun/ITMO-programming-lab6)
+- [лаба 7](https://github.com/GeruniaSun/ITMO-programming-lab7)
+- [лаба 8](https://github.com/GeruniaSun/ITMO-programming-lab8)
 </details>
 
 <details>
 <summary> <b>БДшки</b> </summary>
   
-- [лаба 1](https://github.com/GeruniaSun/ITMO-DB-lab1  )
-- [лаба 2](https://github.com/GeruniaSun/ITMO-DB-lab2  )
-- [лаба 3](https://github.com/GeruniaSun/ITMO-DB-lab3  )
-- [лаба 4](https://github.com/GeruniaSun/ITMO-DB-lab4  )
+- [лаба 1](https://github.com/GeruniaSun/ITMO-DB-lab1)
+- [лаба 2](https://github.com/GeruniaSun/ITMO-DB-lab2)
+- [лаба 3](https://github.com/GeruniaSun/ITMO-DB-lab3)
+- [лаба 4](https://github.com/GeruniaSun/ITMO-DB-lab4)
 </details>
 
 # 3-ий семестр
@@ -53,36 +53,36 @@
 <details>
 <summary> <b>Веб</b> </summary>
   
-- [лаба 1](https://github.com/GeruniaSun/ITMO-web-lab1  )
-- [лаба 2](https://github.com/GeruniaSun/ITMO-web-lab2  )
-- [лаба 3](https://github.com/GeruniaSun/ITMO-web-lab3  )
-- [лаба 4(бэкик)](https://github.com/GeruniaSun/ITMO-web-lab4-back  )
-- [лаба 4(фронтик)](https://github.com/GeruniaSun/ITMO-web-lab4-front  )
+- [лаба 1](https://github.com/GeruniaSun/ITMO-web-lab1)
+- [лаба 2](https://github.com/GeruniaSun/ITMO-web-lab2)
+- [лаба 3](https://github.com/GeruniaSun/ITMO-web-lab3)
+- [лаба 4(бэкик)](https://github.com/GeruniaSun/ITMO-web-lab4-back)
+- [лаба 4(фронтик)](https://github.com/GeruniaSun/ITMO-web-lab4-front)
 </details>
   
 <details>
 <summary> <b>ДГМА</b> </summary>
   
-- [лекции парт ван](https://miro.com/app/board/uXjVKhrxVQM=/?share_link_id=508000302890  )
-- [лекции парт ту](https://miro.com/app/board/uXjVLTtuxGg=/?share_link_id=775120591556  )
-- [лекции парт фри](https://miro.com/app/board/uXjVLGGyp2Q=/?share_link_id=154103931834  )
-- [лекции парт фор](https://miro.com/app/board/uXjVL2qT70A=/?share_link_id=423687423473  )
-- [наши попытки разобрать кр2](https://miro.com/app/board/uXjVL9yytgM=/?share_link_id=582905590677  )
-- [наши попытки разобрать кр3](https://miro.com/app/board/uXjVLz_HkpM=/?share_link_id=658651950885  )
+- [лекции парт ван](https://miro.com/app/board/uXjVKhrxVQM=/?share_link_id=508000302890)
+- [лекции парт ту](https://miro.com/app/board/uXjVLTtuxGg=/?share_link_id=775120591556)
+- [лекции парт фри](https://miro.com/app/board/uXjVLGGyp2Q=/?share_link_id=154103931834)
+- [лекции парт фор](https://miro.com/app/board/uXjVL2qT70A=/?share_link_id=423687423473)
+- [наши попытки разобрать кр2](https://miro.com/app/board/uXjVL9yytgM=/?share_link_id=582905590677)
+- [наши попытки разобрать кр3](https://miro.com/app/board/uXjVLz_HkpM=/?share_link_id=658651950885)
 </details>
   
 <details>
 <summary> <b>ТФКП</b> </summary>
   
-- [лекции парт ван](https://miro.com/app/board/uXjVKiZxeRg=/?share_link_id=594363267686  )
-- [лекции парт ту](https://miro.com/app/board/uXjVLNzja9Y=/?share_link_id=721102733526  )
-- [не лекции](https://miro.com/app/board/uXjVLyLNzdM=/?share_link_id=198640104618  )
+- [лекции парт ван](https://miro.com/app/board/uXjVKiZxeRg=/?share_link_id=594363267686)
+- [лекции парт ту](https://miro.com/app/board/uXjVLNzja9Y=/?share_link_id=721102733526)
+- [не лекции](https://miro.com/app/board/uXjVLyLNzdM=/?share_link_id=198640104618)
 </details>
 
 <details>
 <summary> <b>Физикс</b> </summary>
   
-- [лабулька](https://github.com/GeruniaSun/ITMO-physics-mechanics  )
+- [лабульки](https://github.com/GeruniaSun/ITMO-physics-mechanics)
 </details>
 
 # 4-ый семестр
@@ -91,44 +91,44 @@
 <details>
 <summary> <b>Алгосы</b> </summary>
   
-- [лекции](https://miro.com/app/board/uXjVLiBtinA=/?share_link_id=974986822773  )
-- [задачи со степика(пока что 11 из 17)](https://github.com/GeruniaSun/ITMO-algs-stepik  )
-- [задачи с кодефорсес](https://github.com/GeruniaSun/ITMO-algs-codeforces  )
+- [лекции](https://miro.com/app/board/uXjVLiBtinA=/?share_link_id=974986822773)
+- [задачи со степика(пока что 11 из 17)](https://github.com/GeruniaSun/ITMO-algs-stepik)
+- [задачи с кодефорсес](https://github.com/GeruniaSun/ITMO-algs-codeforces)
 </details>
 
 <details>
 <summary> <b>Матстат</b> </summary>
   
-- [лекции парт ван](https://miro.com/app/board/uXjVLhxrlKs=/?share_link_id=801461673568  )
-- [лекции парт ту](https://miro.com/app/board/uXjVIPtQVkM=/?share_link_id=27987446715  )
-- [лекции парт фри](https://miro.com/app/board/uXjVI9bhq9c=/?share_link_id=469247779445  )
-- [лаба 1](https://colab.research.google.com/drive/1D1cuzKYlYBkijXyZ_9VVJobDqyyCbG4A?usp=sharing  )
-- [лаба 2](https://colab.research.google.com/drive/1S5wBOJF6aisHF6rIUYxNdfP2iwlqiaW5?usp=sharing  )
-- [лаба 3](https://colab.research.google.com/drive/1c0oprSK-uHNthKns0E96I4YWY3xHZ21c?usp=sharing  )
+- [лекции парт ван](https://miro.com/app/board/uXjVLhxrlKs=/?share_link_id=801461673568)
+- [лекции парт ту](https://miro.com/app/board/uXjVIPtQVkM=/?share_link_id=27987446715)
+- [лекции парт фри](https://miro.com/app/board/uXjVI9bhq9c=/?share_link_id=469247779445)
+- [лаба 1](https://colab.research.google.com/drive/1D1cuzKYlYBkijXyZ_9VVJobDqyyCbG4A?usp=sharing)
+- [лаба 2](https://colab.research.google.com/drive/1S5wBOJF6aisHF6rIUYxNdfP2iwlqiaW5?usp=sharing)
+- [лаба 3](https://colab.research.google.com/drive/1c0oprSK-uHNthKns0E96I4YWY3xHZ21c?usp=sharing)
 </details>
 
 <details>
 <summary> <b>Метопты</b> </summary>
   
-- [лекции парт ван](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423  )
-- [лекции парт ту](https://miro.com/app/board/uXjVIE_W780=/?share_link_id=616530430557  )
+- [лекции парт ван](https://miro.com/app/board/uXjVLi-TUTo=/?share_link_id=410088224423)
+- [лекции парт ту](https://miro.com/app/board/uXjVIE_W780=/?share_link_id=616530430557)
 </details>
 
 <details>
 <summary> <b>ОПИ</b> </summary>
   
-- [лаба 1](https://docs.google.com/document/d/1LS2Ss2lClq3pITVmR36E-DKJr-BlHZ0sHRxMtFzTYQc/edit?usp=sharing  )
-- [лаба 2](https://github.com/GeruniaSun/ITMO-OPI-lab2  )
-- [лаба 3(антик)](https://github.com/GeruniaSun/ITMO-OPI-lab3-ant  )
-- [лаба 3(градлик)](https://github.com/GeruniaSun/ITMO-OPI-lab3-gradle  )
-- [лаба 4](https://github.com/GeruniaSun/ITMO-OPI-lab4  )
+- [лаба 1](https://docs.google.com/document/d/1LS2Ss2lClq3pITVmR36E-DKJr-BlHZ0sHRxMtFzTYQc/edit?usp=sharing)
+- [лаба 2](https://github.com/GeruniaSun/ITMO-OPI-lab2)
+- [лаба 3(антик)](https://github.com/GeruniaSun/ITMO-OPI-lab3-ant)
+- [лаба 3(градлик)](https://github.com/GeruniaSun/ITMO-OPI-lab3-gradle)
+- [лаба 4](https://github.com/GeruniaSun/ITMO-OPI-lab4)
 </details>
   
 <details>
 <summary> <b>Физикс</b> </summary>
   
-- [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics-electromagnetism  )
-- [наш супер мега проект](https://github.com/deadxraver/physics-2  )
+- [тут +- все интересное](https://github.com/GeruniaSun/ITMO-physics-electromagnetism)
+- [наш супер мега проект](https://github.com/deadxraver/physics-2)
 </details>
 
 # 5-ый семестр
@@ -137,31 +137,33 @@
 <details>
 <summary> <b>Биометрия</b> </summary>
   
-- [лаб 1](https://docs.google.com/document/d/1heI0OUXoer1k9BUn6UJvOXMqRgFdi7mU-KOOLdvq2LU/edit?usp=sharing  )
-- [лаб 2](https://colab.research.google.com/drive/1r9xBpggC4qaHbGGuKnuf19M8-GU4Lrmp?usp=sharing  )
+- [лаб 1](https://docs.google.com/document/d/1heI0OUXoer1k9BUn6UJvOXMqRgFdi7mU-KOOLdvq2LU/edit?usp=sharing)
+- [лаб 2](https://colab.research.google.com/drive/1r9xBpggC4qaHbGGuKnuf19M8-GU4Lrmp?usp=sharing)
 </details>
 
 <details>
 <summary> <b>Мобилки</b> </summary>
   
-- [наш мега проектище](https://github.com/MessengerBaton?view_as=public  )
+- [наш мега проектище](https://github.com/MessengerBaton?view_as=public)
 </details>
 
 <details>
 <summary> <b>Нейроинформатикс</b> </summary>
   
-- [лаб 1](https://colab.research.google.com/drive/1oCKZWTMaqix_kE7Y_LlScRHT-PaUEYLm?usp=sharing  )
-- [лаб 2](https://colab.research.google.com/drive/1kL5-XhR3X8d3zG1DlcMHls3diSUJ-Ygv?usp=sharing  )
-- [рубеж 1](https://colab.research.google.com/drive/147BIj3f0-KMy_9sCCGHjvSDd3sew0Qz3?usp=sharing  )
+- [лаб 1](https://colab.research.google.com/drive/1oCKZWTMaqix_kE7Y_LlScRHT-PaUEYLm?usp=sharing)
+- [лаб 2](https://colab.research.google.com/drive/1kL5-XhR3X8d3zG1DlcMHls3diSUJ-Ygv?usp=sharing)
+- [лаб 3](https://colab.research.google.com/drive/1QlDFzgj41Kh67L6nnMPaEbtBtEuTQ22K?usp=sharing)
+- [лаб 4](https://colab.research.google.com/drive/1xJB0WnYQE-LvG0nKJrVPz51jthElBed-?usp=sharing)
+- [рубеж 1](https://colab.research.google.com/drive/147BIj3f0-KMy_9sCCGHjvSDd3sew0Qz3?usp=sharing)
 </details>
 
 <details>
 <summary> <b>Нейрофиз</b> </summary>
   
-- [лаб 1](https://colab.research.google.com/drive/1oU4mQjOG-_kai0DUWLZFBfRgNAlccTkI?usp=sharing  )
-- [лаб 2](https://colab.research.google.com/drive/1bzfmO98UKpc8sXvpCmV785vWfS58oKX_?usp=sharing  )
-- [лаб 3](https://colab.research.google.com/drive/1md2uAiFKZhU-KUuUD9y2dWQWBW__un5s?usp=sharing  )
-- [лаб 4](https://colab.research.google.com/drive/1o9tQIyh5_lRBzNC6kP6UocTwINVeeUxI?usp=sharing  )
+- [лаб 1](https://colab.research.google.com/drive/1oU4mQjOG-_kai0DUWLZFBfRgNAlccTkI?usp=sharing)
+- [лаб 2](https://colab.research.google.com/drive/1bzfmO98UKpc8sXvpCmV785vWfS58oKX_?usp=sharing)
+- [лаб 3](https://colab.research.google.com/drive/1md2uAiFKZhU-KUuUD9y2dWQWBW__un5s?usp=sharing)
+- [лаб 4](https://colab.research.google.com/drive/1o9tQIyh5_lRBzNC6kP6UocTwINVeeUxI?usp=sharing)
 </details>
 
 <details>
