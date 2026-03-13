@@ -191,6 +191,16 @@
 - [лаб 1](https://github.com/GeruniaSun/ITMO-fp-lab1  )
 </details>
 
+
+# 6-ой семестр
+<i>в раздумьях</i>
+
+<details>
+<summary> <b>ТПО</b> </summary>
+  
+- [лаб 1](https://github.com/GeruniaSun/ITMO-TPO-lab1)
+</details>
+
 # Вне времени
 <details>
 <summary> <b>Некоторые конспекты</b> </summary>
