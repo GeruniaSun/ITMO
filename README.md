@@ -195,11 +195,22 @@
 # 6-ой семестр
 <i>в раздумьях</i>
 
+
+<details>
+<summary> <b>Терсис</b> </summary>
+  
+- [лаб 1](https://colab.research.google.com/drive/1vZtR9RW20MkknXbryNwqmmNR2mVVCLnl?usp=sharing)
+- [лаб 2](https://colab.research.google.com/drive/1a3ZDJAEG961XmeLNhOIleEed7qd7zvuV?usp=sharing)
+- [лаб 3](https://colab.research.google.com/drive/1IEM5T5SWJl1a1_LVyKULQUJ4rVRBuefe?usp=sharing)
+- [лаб 4](https://colab.research.google.com/drive/1neqR8Wt_EgJrpIUrdys1yhnCtLIcoByA?usp=sharing)
+</details>
+
 <details>
 <summary> <b>ТПО</b> </summary>
   
 - [лаб 1](https://github.com/GeruniaSun/ITMO-TPO-lab1)
 </details>
+
 
 # Вне времени
 <details>
