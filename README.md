@@ -195,6 +195,17 @@
 # 6-ой семестр
 <i>в раздумьях</i>
 
+<details>
+<summary> <b>КСС</b> </summary>
+  
+- [лабы](https://github.com/GeruniaSun/ITMO-CSW-labs)
+</details>
+
+<details>
+<summary> <b>НейроТех и АфВыч</b> </summary>
+  
+- [лаб 1](https://github.com/GeruniaSun/ITMO-NAC-lab1)
+</details>
 
 <details>
 <summary> <b>Терсис</b> </summary>
@@ -209,6 +220,9 @@
 <summary> <b>ТПО</b> </summary>
   
 - [лаб 1](https://github.com/GeruniaSun/ITMO-TPO-lab1)
+- [лаб 2](https://github.com/allfeia/ITMO-TPO-Lab2)
+- [лаб 3](https://github.com/allfeia/ITMO-TPO-Lab3)
+- [лаб 4](https://github.com/allfeia/ITMO-TPO-Lab4)
 </details>
 
 
