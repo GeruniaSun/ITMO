@@ -208,6 +208,12 @@
 </details>
 
 <details>
+<summary> <b>СисАдм</b> </summary>
+  
+- [лабы](https://github.com/GeruniaSun/ITMO-SA-labs)
+</details>
+
+<details>
 <summary> <b>Терсис</b> </summary>
   
 - [лаб 1](https://colab.research.google.com/drive/1vZtR9RW20MkknXbryNwqmmNR2mVVCLnl?usp=sharing)
