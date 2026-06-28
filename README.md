@@ -193,7 +193,7 @@
 
 
 # 6-ой семестр
-<i>в раздумьях</i>
+<i>жалеть себя не надо, надо впитывать жизнь</i>
 
 <details>
 <summary> <b>КСС</b> </summary>
@@ -205,6 +205,8 @@
 <summary> <b>НейроТех и АфВыч</b> </summary>
   
 - [лаб 1](https://github.com/GeruniaSun/ITMO-NAC-lab1)
+- [мегапроект(SEVA)](https://github.com/khizhmsh/student-engagement-voice)
+- [лаб 0](https://docs.google.com/document/d/1jf2o-zdgByeMegP4unDhqacxzAyGyZtDbChUYW9mY1w/edit?usp=sharing)
 </details>
 
 <details>
@@ -220,6 +222,7 @@
 - [лаб 2](https://colab.research.google.com/drive/1a3ZDJAEG961XmeLNhOIleEed7qd7zvuV?usp=sharing)
 - [лаб 3](https://colab.research.google.com/drive/1IEM5T5SWJl1a1_LVyKULQUJ4rVRBuefe?usp=sharing)
 - [лаб 4](https://colab.research.google.com/drive/1neqR8Wt_EgJrpIUrdys1yhnCtLIcoByA?usp=sharing)
+- [лаб 5](https://colab.research.google.com/drive/1p503-jBfUA1LDyyZU-l5wYLbvokHCGJG?usp=sharing)
 </details>
 
 <details>
