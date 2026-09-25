@@ -234,6 +234,22 @@
 - [лаб 4](https://github.com/allfeia/ITMO-TPO-Lab4)
 </details>
 
+# 7-ой семестр
+<i>думаю</i>
+
+<details>
+<summary> <b>МодСис</b> </summary>
+  
+- [лаб 1](https://colab.research.google.com/drive/1uUrLPm5Qf7R6VJ8O5QTZJAuqJ5k4BaHb?usp=sharing)
+</details>
+
+<details>
+<summary> <b>ЭПИ</b> </summary>
+  
+- [лаб 1](https://docs.google.com/document/d/1qk_uclAJXS5xQfco5i9lXWNQJr7oQaAIBYTIFsqyyE0/edit?usp=sharing)
+</details>
+
+
 
 # Вне времени
 <details>
