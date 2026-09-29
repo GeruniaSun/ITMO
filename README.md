@@ -238,6 +238,12 @@
 <i>думаю</i>
 
 <details>
+<summary> <b>АСУБД</b> </summary>
+  
+- [лабули](https://github.com/GeruniaSun/ITMO-DBA-labs)
+</details>
+
+<details>
 <summary> <b>МодСис</b> </summary>
   
 - [лаб 1](https://colab.research.google.com/drive/1uUrLPm5Qf7R6VJ8O5QTZJAuqJ5k4BaHb?usp=sharing)
