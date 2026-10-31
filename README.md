@@ -244,15 +244,25 @@
 </details>
 
 <details>
+<summary> <b>ИБ</b> </summary>
+  
+- [лабули](https://github.com/GeruniaSun/ITMO-IS-labs)
+</details>
+
+<details>
 <summary> <b>МодСис</b> </summary>
   
 - [лаб 1](https://colab.research.google.com/drive/1uUrLPm5Qf7R6VJ8O5QTZJAuqJ5k4BaHb?usp=sharing)
+- [лаб 2](https://colab.research.google.com/drive/1fnsunpYVqHfKXPoJ3YuZXxe9BuqBbItu?usp=sharing)
+- [лаб 3](https://github.com/GeruniaSun/ITMO-SM-labs)
+- [лаб 4](https://github.com/GeruniaSun/ITMO-SM-lab4)
 </details>
 
 <details>
 <summary> <b>ЭПИ</b> </summary>
   
 - [лаб 1](https://docs.google.com/document/d/1qk_uclAJXS5xQfco5i9lXWNQJr7oQaAIBYTIFsqyyE0/edit?usp=sharing)
+- потом
 </details>
 
 
