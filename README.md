@@ -265,6 +265,7 @@
   
 - [лаб 1](https://docs.google.com/document/d/1qk_uclAJXS5xQfco5i9lXWNQJr7oQaAIBYTIFsqyyE0/edit?usp=sharing)
 - потом
+- [лаб 3](https://docs.google.com/document/d/1UzmK3vA2X7FZHhzPMNTvAJnrXu2fk497ueCleSTaz2k/edit?usp=sharing)
 </details>
 
 
