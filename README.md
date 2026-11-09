@@ -258,6 +258,7 @@
 - [лаб 4](https://github.com/GeruniaSun/ITMO-SM-lab4)
 - [лаб 5](https://colab.research.google.com/drive/1a0-OszjJ73Q5AIVJSYEOJWf_KdkeKwlG?usp=sharing)
 - [лаб 6](https://github.com/GeruniaSun/ITMO-SM-lab6)
+- [лаб 7](https://colab.research.google.com/drive/1_l0T_TOQ20lwZ6jhsssi62XUVvefrwZh?usp=sharing)
 </details>
 
 <details>
