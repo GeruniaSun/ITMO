@@ -244,6 +244,12 @@
 </details>
 
 <details>
+<summary> <b>ИнтОбЭД</b> </summary>
+  
+- [лабы 1-3](https://colab.research.google.com/drive/1llzjg8ab8zI3x_mCCdYrt_qw7LHlQL22?usp=sharing)
+</details>
+
+<details>
 <summary> <b>ИБ</b> </summary>
   
 - [лабули](https://github.com/GeruniaSun/ITMO-IS-labs)
